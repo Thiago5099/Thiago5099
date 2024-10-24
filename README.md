@@ -1,22 +1,15 @@
+# Olá, sou o Thiago
 
-<h1 align="left">Olá, sou o Thiago</h1>
+Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Desde pequeno, sempre estive envolvido com o mundo da tecnologia, me divertindo acompanhando influencers que exploram esse fascinante universo!
 
-###
+Atualmente, estou focado nos estudos de Desenvolvimento Web, Java e SQL. Tenho um grande interesse nessas tecnologias, porém estou aberto a explorar outras também.
 
-<p align="left">Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Desde pequeno, sempre estive envolvido com o mundo da tecnologia, me divertindo acompanhando influencers que exploram esse fascinante universo! 
+## Experiência em trabalho em equipe
 
-Atualmente, estou focado nos estudos de Desenvolvimento Web, Java e SQL . Tenho um grande interesse nessas tecnologias, porém estou aberto a explorar outras também.
+Hoje, colaboro em uma equipe de desenvolvimento de robôs e, na faculdade, faço regularmente trabalhos em grupo.
 
-Experiência em trabalho em equipe:
+## Linguagens
 
-Hoje, colaboro em uma equipe de desenvolvimento de robôs e na faculdade, faço regularmente trabalhos em grupo.</p>
-
-
-###
-
-<h2 align="left">Linguagens</h2>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="12" />
@@ -31,18 +24,8 @@ Hoje, colaboro em uma equipe de desenvolvimento de robôs e na faculdade, faço 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo" />
 </div>
 
-###
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiago5099&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Java" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago5099&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Java" height="150" alt="stats graph" />
 </div>
 
-###
-
-<div align="left">
-<a href="https://www.linkedin.com/in/thiagovalenca" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Badge" />
-</a>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovalenca)
