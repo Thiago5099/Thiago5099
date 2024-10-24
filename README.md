@@ -28,5 +28,5 @@ Hoje, colaboro em uma equipe de desenvolvimento de robôs e, na faculdade, faço
   <img src="https://github-readme-stats.vercel.app/api?username=Thiago5099&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Java" height="150" alt="stats graph" />
 </div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovalenca)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovalença)
 
