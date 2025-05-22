@@ -1,6 +1,6 @@
 # Olá, sou o Thiago
 
-Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Desde pequeno, sempre estive envolvido com o mundo da tecnologia, me divertindo acompanhando influencers que exploram esse fascinante universo!
+Sou estudante do Terceiro semestre de Análise e Desenvolvimento de Sistemas. Desde pequeno, sempre estive envolvido com o mundo da tecnologia, me divertindo acompanhando influencers que exploram esse fascinante universo!
 
 Atualmente, estou focado nos estudos de Desenvolvimento Web, Java e SQL. Tenho um grande interesse nessas tecnologias, porém estou aberto a explorar outras também.
 
